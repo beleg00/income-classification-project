@@ -12,7 +12,6 @@ This project demonstrates a basic machine learning pipeline to classify income l
 6. [Evaluation](#evaluation)
 7. [Visualization](#visualization)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Installation
 
@@ -154,11 +153,3 @@ plt.show()
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the project, instructions for installation, and details on how to run and evaluate the code. Feel free to modify it to suit your specific needs.
